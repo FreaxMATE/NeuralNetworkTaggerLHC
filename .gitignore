@@ -7,10 +7,10 @@ __pycache__/
 *.pyc
 
 # Output artifacts
-out/
-*.png
-*.pt
-*.csv
+# out/
+# *.png
+# *.pt
+# *.csv
 
 # OS/editor junk
 .DS_Store
