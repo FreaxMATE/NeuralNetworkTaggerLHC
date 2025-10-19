@@ -1,0 +1,14 @@
+name: nn-tagger
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - scipy
+  - pytorch
+  - cpuonly
